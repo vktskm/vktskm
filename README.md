@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, Vincenzo Schembri</h1>
 <h3 align="center">Full-Stack developer -Digital Marketing</h3>
-- 📫 How to reach me **vinkentskembri@gmail.com**
-<h3 align="left">Connect with me:</h3>
+- 📫 Puoi raggiungermi **vinkentskembri@gmail.com**
 <p align="left">
 <a href="https://www.linkedin.com/in/vincenzo-schembri-a5814527b/" target="blank">
 </p>
