@@ -5,9 +5,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vincenzo-schembri-a5814527b/" target="blank">
 </p>
-<p> Sono Vincenzo Schembri, laureato in Economia, Marketing e Comunicazione presso l'Università di Milano-Bicocca. Ho recentemente completato un corso avanzato di 
-    Full Stack Developer presso Epicode. Durante il mio percorso universitario, ho acquisito competenze di base in Python e ora desidero approfondire la formazione 
-    nel campo dell'analisi dati.</p>
+<p> Sono Vincenzo Schembri, laureato in Economia, Marketing e Comunicazione presso l'Università di Milano-Bicocca. Ho recentemente completato un corso avanzato di Full Stack Developer presso Epicode. 
+    Durante il mio percorso universitario, ho acquisito competenze di base in Python e ora desidero approfondire la formazione nel campo dell'analisi dati.</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
 <a><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
